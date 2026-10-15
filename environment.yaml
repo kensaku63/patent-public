@@ -1,0 +1,4 @@
+name: default
+description: 文書作成と公開文献調査用。追加パッケージ不要。
+config:
+  packages: {}

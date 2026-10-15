@@ -1,0 +1,6 @@
+# Do not store local secrets or case material.
+.env
+.env.*
+*.pem
+*.key
+private/
